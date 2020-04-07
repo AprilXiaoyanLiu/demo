@@ -47,7 +47,7 @@
           {"breed": "Dalmatian", "species": "Dog"}],
     
  "species":[{"id": 1, "species": "Dog"},
-            {"id": 2, "species":"Cat}]
+            {"id": 2, "species":"Cat"}]
 
 
 }
