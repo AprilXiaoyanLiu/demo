@@ -8,9 +8,9 @@
         "alteration_status": "neutered",
         "descriptions": "aggressive attack dog",
         "microchipId": "0012314",
-        "species": "Dog",
+        "species": 1,
         "breed": "Chihuahua,Dachshund",
-        "adoption_status": "not adopted"
+        "adoption_status": 2
     },
     {
         "pet_id": "2",
@@ -20,9 +20,9 @@
         "alteration_status": "neutered",
         "descriptions": "aggressive attack cat",
         "microchipId": "001231214",
-        "species": "Cat",
+        "species": 1,
         "breed": "Abyssinian",
-        "adoption_status": "not adopted"
+        "adoption_status": 1
     },
     {
         "pet_id": "3",
@@ -32,8 +32,9 @@
         "alteration_status": "neutered",
         "descriptions": "aggressive attack dog",
         "microchipId": "0012314",
-        "species": "not adopted",
-        "adoption_status": "not adopted"
+        "species": 2,
+        "breed": "Persian Cat"
+        "adoption_status":2
     }
 ],
     
