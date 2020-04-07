@@ -20,7 +20,7 @@
         "alteration_status": "neutered",
         "descriptions": "aggressive attack cat",
         "microchipId": "001231214",
-        "species": 1,
+        "species": 2,
         "breed": "Abyssinian",
         "adoption_status": 1
     },
@@ -32,9 +32,9 @@
         "alteration_status": "neutered",
         "descriptions": "aggressive attack dog",
         "microchipId": "0012314",
-        "species": 2,
-        "breed": "Persian Cat",
-        "adoption_status": 2
+        "species": 1,
+        "breed": "Afghan Hound",
+        "adoption_status": 1
     }
 ],
     
