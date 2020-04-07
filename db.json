@@ -35,7 +35,20 @@
         "species": "not adopted",
         "adoption_status": "not adopted"
     }
-]
+],
+    
+"breed": [{"breed": "Abyssinian", "species": "Cat"},
+          {"breed": "Aegean Cat", "species": "Cat"},
+          {"breed": "American Botail", "species":"Cat"},
+          {"breed": "Afghan Hound", "species":"Dog"},
+          {"breed": "Airedale Terrier", "species": "Dog"},
+          {"breed": "Azawakh", "species": "Dog"},
+          {"breed": "Dachund", "species": "Dog"},
+          {"breed": "Dalmatian", "species": "Dog"}],
+    
+ "species":[{"id": 1, "species": "Dog"},
+            {"id": 2, "species":"Cat}]
+
 
 }
 
