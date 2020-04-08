@@ -81,11 +81,11 @@
       {
           "species": "Cat",
           "vaccine": "Bordetella",
-          "requiredforadoption": "No",
+          "requiredforadoption": "No"
       },{
           "species": "Cat",
           "vaccine": "Feline Calicivirus",
-          "requiredforadoption": "Yes",
+          "requiredforadoption": "Yes"
       },{
           "species": "Dog",
           "vaccine": "Bordetella",
