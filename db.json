@@ -3,7 +3,7 @@
     {
         "pet_id": "1",
         "pet_name": "shi zi wang",
-        "sex": "Male",
+        "sex": 2,
         "age": 4,
         "alteration_status": 1,
         "descriptions": "aggressive attack dog",
@@ -15,7 +15,7 @@
     {
         "pet_id": "2",
         "pet_name": "car lord",
-        "sex": "Male",
+        "sex": 2,
         "age": 3,
         "alteration_status": 1,
         "descriptions": "aggressive attack cat",
@@ -27,7 +27,7 @@
     {
         "pet_id": "3",
         "pet_name": "Moca",
-        "sex": "Male",
+        "sex": 1,
         "age": 4,
         "alteration_status": 1,
         "descriptions": "smart cute dog",
@@ -39,7 +39,7 @@
         {
         "pet_id": "4",
         "pet_name": "Emily",
-        "sex": "Female",
+        "sex": 1,
         "age": 1,
         "alteration_status": 2,
         "descriptions": "cute and friendly cat",
@@ -51,7 +51,7 @@
          {
         "pet_id": "5",
         "pet_name": "Joana",
-        "sex": "Female",
+        "sex": 3,
         "age": 10,
         "alteration_status": 1,
         "descriptions": "cute and friendly cat",
