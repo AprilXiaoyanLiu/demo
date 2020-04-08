@@ -107,7 +107,7 @@
         "microchipId": "0012314",
         "species": "Dog",
         "breed": "Chihuahua,Dachshund",
-        "adoption_status": 2,
+        "adoption_status": "Adopted",
         "surrender_date": "2019-02-02",
         "surrender_reason": "hurrican happened",
         "surrender_by_animal_control": "Yes"
@@ -122,7 +122,7 @@
         "microchipId": "001231214",
         "species": "Cat",
         "breed": "Abyssinian",
-        "adoption_status": 1,
+        "adoption_status": "Not Adopted",
         "surrender_date": "2020-03-02",
         "surrender_reason": "having baby",
         "surrender_by_animal_control": "No"
@@ -137,7 +137,7 @@
         "microchipId": "0012314",
         "species": "Dog",
         "breed": "Afghan Hound",
-        "adoption_status": 1,
+        "adoption_status": "Adopted",
         "surrender_date": "2019-12-02",
         "surrender_reason": "lost",
         "surrender_by_animal_control": "Yes"
