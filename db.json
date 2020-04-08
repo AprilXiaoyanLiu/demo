@@ -175,14 +175,14 @@
         
 ],
      "animalvaccine": [
-         {"animalvaccine_id": 1,
+         {"id": 1,
           "pet_id": 1,
           "vaccine": "Canine Adenovirus-2",
           "username": "abc",
           "date_administered": "2018-01-02",
           "expriation_date": "2020-09-01",
           "vaccination_number": 13456},
-         {"animalvaccine_id": 2,
+         {"id": 2,
           "pet_id": 3,
           "vaccine": "Canine Adenovirus-2",
           "username": "abc",
@@ -190,7 +190,7 @@
           "expriation_date": "2020-03-01",
           "vaccination_number": 13086},
          
-         {"animalvaccine_id": 3,
+         {"id": 3,
           "pet_id": 2,
           "vaccine": "Bordetella",
           "username": "abc",
