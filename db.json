@@ -35,7 +35,32 @@
         "species": 1,
         "breed": "Afghan Hound",
         "adoption_status": 1
+    },
+        {
+        "pet_id": "4",
+        "pet_name": "Emily",
+        "sex": "Female",
+        "age": 1,
+        "alteration_status": "unaltered",
+        "descriptions": "cute and friendly cat",
+        "microchipId": "0012314",
+        "species": 3,
+        "breed": "Mixed",
+        "adoption_status": 1
+    },
+         {
+        "pet_id": "5",
+        "pet_name": "Joana",
+        "sex": "Female",
+        "age": 10,
+        "alteration_status": "altered",
+        "descriptions": "cute and friendly cat",
+        "microchipId": "0012314",
+        "species": 2,
+        "breed": "Mixed",
+        "adoption_status": 2
     }
+        
 ],
     
 "breed": [{"breed": "Abyssinian", "species": "Cat"},
