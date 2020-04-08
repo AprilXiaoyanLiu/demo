@@ -110,7 +110,7 @@
         "adoption_status": 2,
         "surrender_date": "2019-02-02",
         "surrender_reason": "hurrican happened",
-        "surrender_by_animal_control": True
+        "surrender_by_animal_control": "Yes"
     },
     {
         "id": 2,
@@ -125,7 +125,7 @@
         "adoption_status": 1,
         "surrender_date": "2020-03-02",
         "surrender_reason": "having baby",
-        "surrender_by_animal_control": False
+        "surrender_by_animal_control": "No"
     },
     {
         "id": 3,
@@ -140,7 +140,7 @@
         "adoption_status": 1,
         "surrender_date": "2019-12-02",
         "surrender_reason": "lost",
-        "surrender_by_animal_control": True
+        "surrender_by_animal_control": "Yes"
     },
         {
         "id": 4,
@@ -155,7 +155,7 @@
         "adoption_status": 1,
         "surrender_date": "2019-11-02",
         "surrender_reason": "lost",
-        "surrender_by_animal_control": True
+        "surrender_by_animal_control": "Yes"
     },
          {
         "id": 5,
@@ -170,7 +170,7 @@
         "adoption_status": 2,
         "surrender_date": "2020-01-02",
         "surrender_reason": ,
-        "surrender_by_animal_control":False
+        "surrender_by_animal_control":"No"
     }
         
 ],
