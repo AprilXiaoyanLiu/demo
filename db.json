@@ -142,21 +142,6 @@
         "surrender_date": "2019-12-02",
         "surrender_reason": "lost",
         "surrender_by_animal_control": "Yes"
-    },
-        {
-        "id": 4,
-        "pet_name": "Emily",
-        "sex": "Female",
-        "age": 1,
-        "alteration_status": "unaltered",
-        "descriptions": "cute and friendly cat",
-        "microchipId": "0012314",
-        "species": "Unknown",
-        "breed": "Mixed",
-        "adoption_status": 1,
-        "surrender_date": "2019-11-02",
-        "surrender_reason": "lost",
-        "surrender_by_animal_control": "Yes"
     }
 ]
  
