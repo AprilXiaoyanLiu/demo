@@ -137,10 +137,37 @@
         "microchipId": "0012314",
         "species": "Dog",
         "breed": "Afghan Hound",
-        "adoption_status": "Adopted",
+        "adoption_status": "Not Adopted",
         "surrender_date": "2019-12-02",
         "surrender_reason": "lost",
         "surrender_by_animal_control": "Yes"
+    },
+         {
+        "id": 4,
+        "pet_name": "Emily",
+        "sex": "Female",
+        "age": 1,
+        "alteration_status": "Unaltered",
+        "descriptions": "cute and friendly cat",
+        "microchipId": "0012314",
+        "species": 3,
+        "breed": "Mixed",
+        "adoption_status": "Not Adopted",
+        "surrender_date": "2018-10-02",
+        "surrender_reason": "no reason",
+        "surrender_by_animal_control": "No"
+    },
+         {
+        "id": 5,
+        "pet_name": "Joana",
+        "sex": "Unknown",
+        "age": 10,
+        "alteration_status": "Neutered",
+        "descriptions": "cute and friendly cat",
+        "microchipId": "0012314",
+        "species": 2,
+        "breed": "Mixed",
+        "adoption_status": "Adopted"
     }
 ]
  
