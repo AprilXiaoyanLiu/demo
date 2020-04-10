@@ -150,7 +150,7 @@
         "alteration_status": "Unaltered",
         "descriptions": "cute and friendly cat",
         "microchipId": "0012314",
-        "species": 3,
+        "species": "Unknown",
         "breed": "Mixed",
         "adoption_status": "Not Adopted",
         "surrender_date": "2018-10-02",
@@ -165,7 +165,7 @@
         "alteration_status": "Neutered",
         "descriptions": "cute and friendly cat",
         "microchipId": "0012314",
-        "species": 2,
+        "species": "Cat",
         "breed": "Mixed",
         "adoption_status": "Adopted"
     }
